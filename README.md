@@ -43,9 +43,160 @@ C2C를 기반으로 진행되는 상거래 사이트
 API를 이용한 기능 구현
 
 <br/>
-슈"></a> 이슈
 
-### i.  <a name="문제"></a>  문제
+AWS를 이용한 웹 서버 구축
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## :clock1:  <a name="일정"></a> 일정
+
+<br/>
+<br/>
+
+![image](https://github.com/kty1210/fashionflow/assets/154123644/95ccece8-9d88-44e0-9d73-b5ba967a9304)
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## :clock2: <a name="요구사항-명세서"></a> 요구사항 명세서
+
+<br/>
+<br/>
+
+![image](https://github.com/kty1210/fashionflow/assets/154123644/61048b17-0697-490b-a02e-148afba5dabc)
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## :clock3: <a name="시퀀스-다이어그램"></a> 시퀀스 다이어그램
+
+<br/>
+<br/>
+
+
+![image](https://github.com/kty1210/fashionflow/assets/154123644/c82d3d2e-8fe5-41b0-b36f-e04431284d65)
+
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## :clock4: <a name="와이어-프레임"></a> 와이어 프레임
+
+<br/>
+<br/>
+
+![image](https://github.com/kty1210/fashionflow/assets/154123644/6865a75b-43a4-43ef-89fb-c5fb3116197d)
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+## :clock5: <a name="주요-라이브러리"></a> 주요 라이브러리
+
+<br/>
+<br/>
+
+* Spring Security
+* Jackson
+* validation
+* OAuth
+* Websocket
+* mail
+* thymeleaf
+* google chart
+
+<br/>
+<br/>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## :clock6: <a name="클래스-다이어그램"></a> 클래스 다이어그램
+
+
+<br/>
+<br/>
+
+![Heart](https://github.com/kty1210/fashionflow/assets/154123644/06b0e53f-5f01-4faf-bd95-4dd9f97c421b)
+
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## :clock7:  <a name="엔티티-관계도"></a> 엔티티 관계도
+
+
+<br/>
+<br/>
+
+![fashiondb](https://github.com/kty1210/fashionflow/assets/154123644/23249664-266c-4b6b-bfd2-b028637b9274)
+
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## :clock8: <a name="이슈"></a>  이슈
+
+### i. <a name="문제"></a> 문제
 
 <br/>
 <br/>
@@ -103,9 +254,7 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 <br/>
 <br/>
 
-
-
-## :clock9:  <a name="서버-구축"></a> 서버 구축
+## :clock9: <a name="서버-구축"></a> 서버 구축
 
 
 <br/>
@@ -113,7 +262,6 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 
 ![ec2](https://github.com/kty1210/fashionflow/assets/154123644/c0988f5d-2e51-4085-b92e-7aced4134df3)
 ![rds](https://github.com/kty1210/fashionflow/assets/154123644/00723a88-5b34-458c-9b3b-50a43c965439)
-
 
 
 <br/>
@@ -126,9 +274,7 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 <br/>
 <br/>
 
-
-
-## :clock10: <a name="기능-시연"></a>  기능 시연
+## :clock10: 기능 시연
 
 <br/>
 
@@ -150,9 +296,8 @@ https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
 <br/>
 
 
-
 <!-- 기술스택 -->
-## :clock11:  <a name="주요-기술스택"></a> 주요 기술스택
+## :clock11: 주요 기술스택
 
 <br/>
 <br/>
@@ -183,8 +328,7 @@ https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
 <br/>
 <br/>
 
-
-## 🛬  <a name="마치며"></a> 마치며...
+## 🛬 마치며...
 
 
 <br/>
@@ -215,4 +359,5 @@ https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
 <br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
