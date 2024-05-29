@@ -64,7 +64,7 @@ BLACK 등급의 회원 차단시 기본 로그인 실패 메세지 출력
 <br/>
 
 
-### ii. <a name="원인인"></a> 원인
+### ii. <a name="원인"></a> 원인
 
 <br/>
 <br/>
@@ -82,7 +82,7 @@ AuthenticationException를 상속받는 예외가 발생하면, 스프링 시큐
 <br/>
 
 
-### iii. <a name="해결방법법"></a> 해결방법
+### iii. <a name="해결방법"></a> 해결방법
 
 <br/>
 <br/>
@@ -128,7 +128,7 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 
 
 
-## :clock10: <a name="기능-시연연"></a>  기능 시연
+## :clock10: <a name="기능-시연"></a>  기능 시연
 
 <br/>
 
@@ -152,7 +152,7 @@ https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
 
 
 <!-- 기술스택 -->
-## :clock11:  <a name="주요-기술스택택"></a> 주요 기술스택
+## :clock11:  <a name="주요-기술스택"></a> 주요 기술스택
 
 <br/>
 <br/>
