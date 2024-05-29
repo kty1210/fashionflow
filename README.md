@@ -101,41 +101,9 @@ AWS를 이용한 웹 서버 구축
 <br/>
 <br/>
 
-<!-- 기술스택 -->
-## :clock5: 주요 기술스택
-
-<br/>
-<br/>
-
-* <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor=white">
-* <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-* <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-* <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-* <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jqueryt&logoColor=white">
-* <img src="https://img.shields.io/badge/jpa-E53525?style=for-the-badge&logo=jpa&logoColor=white">
-* <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-* <img src="https://img.shields.io/badge/openjdk-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-* <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-* <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-* <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
 
 
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-
-
-<br/>
-<br/>
-<br/>
-
-
-
-## :clock6: 주요 라이브러리
+## :clock5: 주요 라이브러리
 
 <br/>
 <br/>
@@ -162,7 +130,7 @@ AWS를 이용한 웹 서버 구축
 <br/>
 
 
-## :clock7: 클래스 다이어그램
+## :clock6: 클래스 다이어그램
 
 
 <br/>
@@ -181,7 +149,7 @@ AWS를 이용한 웹 서버 구축
 <br/>
 <br/>
 
-## :clock8: 엔티티 관계도
+## :clock7: 엔티티 관계도
 
 ![fashiondb](https://github.com/kty1210/fashionflow/assets/154123644/23249664-266c-4b6b-bfd2-b028637b9274)
 
@@ -196,30 +164,8 @@ AWS를 이용한 웹 서버 구축
 <br/>
 <br/>
 
-## :clock9: 기능 시연
 
-<br/>
-
-<br/> 
-
-* 담당부분
-
-[![Video Label](http://img.youtube.com/vi/yRVWUnFJsqE/0.jpg)](https://youtu.be/yRVWUnFJsqE)
-
-https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-## :clock10: 이슈
+## :clock8: 이슈
 
 ### i.문제
 
@@ -279,6 +225,85 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 <br/>
 <br/>
 
+
+
+## :clock9: 서버 구축
+
+
+<br/>
+<br/>
+
+![ec2](https://github.com/kty1210/fashionflow/assets/154123644/c0988f5d-2e51-4085-b92e-7aced4134df3)
+![rds](https://github.com/kty1210/fashionflow/assets/154123644/00723a88-5b34-458c-9b3b-50a43c965439)
+
+
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+## :clock10: 기능 시연
+
+<br/>
+
+<br/> 
+
+* 담당부분
+
+[![Video Label](http://img.youtube.com/vi/yRVWUnFJsqE/0.jpg)](https://youtu.be/yRVWUnFJsqE)
+
+https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<!-- 기술스택 -->
+## :clock11: 주요 기술스택
+
+<br/>
+<br/>
+
+* <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor=white">
+* <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+* <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+* <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+* <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jqueryt&logoColor=white">
+* <img src="https://img.shields.io/badge/jpa-E53525?style=for-the-badge&logo=jpa&logoColor=white">
+* <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+* <img src="https://img.shields.io/badge/openjdk-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+* <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+* <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+* <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
+
+
+
+<br/>
+<br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+
+
+<br/>
+<br/>
+<br/>
 
 
 ## 🛬 마치며...
