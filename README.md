@@ -31,7 +31,7 @@
 <br/>
 
 <!-- ABOUT THE PROJECT -->
-## :clock12: 소개
+## :clock12: <a name="소개"></a> 소개
 <br/>
 <br/>
 
@@ -43,154 +43,9 @@ C2C를 기반으로 진행되는 상거래 사이트
 API를 이용한 기능 구현
 
 <br/>
+슈"></a> 이슈
 
-AWS를 이용한 웹 서버 구축
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-## :clock1: 일정
-
-<br/>
-<br/>
-
-![image](https://github.com/kty1210/fashionflow/assets/154123644/95ccece8-9d88-44e0-9d73-b5ba967a9304)
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-## :clock2: 요구사항 명세서
-
-<br/>
-<br/>
-
-![image](https://github.com/kty1210/fashionflow/assets/154123644/61048b17-0697-490b-a02e-148afba5dabc)
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-## :clock3: 시퀀스 다이어그램
-
-<br/>
-<br/>
-
-
-![image](https://github.com/kty1210/fashionflow/assets/154123644/c82d3d2e-8fe5-41b0-b36f-e04431284d65)
-
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-## :clock4: 와이어 프레임
-
-<br/>
-<br/>
-
-![image](https://github.com/kty1210/fashionflow/assets/154123644/6865a75b-43a4-43ef-89fb-c5fb3116197d)
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-## :clock5: 주요 라이브러리
-
-<br/>
-<br/>
-
-* Spring Security
-* Jackson
-* validation
-* OAuth
-* Websocket
-* mail
-* thymeleaf
-* google chart
-
-<br/>
-<br/>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-## :clock6: 클래스 다이어그램
-
-
-<br/>
-<br/>
-
-![Heart](https://github.com/kty1210/fashionflow/assets/154123644/06b0e53f-5f01-4faf-bd95-4dd9f97c421b)
-
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-## :clock7: 엔티티 관계도
-
-![fashiondb](https://github.com/kty1210/fashionflow/assets/154123644/23249664-266c-4b6b-bfd2-b028637b9274)
-
-
-<br/>
-<br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-## :clock8: 이슈
-
-### i.문제
+### i.  <a name="문제"></a>  문제
 
 <br/>
 <br/>
@@ -209,7 +64,7 @@ BLACK 등급의 회원 차단시 기본 로그인 실패 메세지 출력
 <br/>
 
 
-### ii.원인
+### ii. <a name="원인인"></a> 원인
 
 <br/>
 <br/>
@@ -227,7 +82,7 @@ AuthenticationException를 상속받는 예외가 발생하면, 스프링 시큐
 <br/>
 
 
-### iii.해결방법
+### iii. <a name="해결방법법"></a> 해결방법
 
 <br/>
 <br/>
@@ -250,7 +105,7 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 
 
 
-## :clock9: 서버 구축
+## :clock9:  <a name="서버-구축"></a> 서버 구축
 
 
 <br/>
@@ -273,7 +128,7 @@ InternalAuthenticationServiceException의 원인이 되는 예외로 특정시�
 
 
 
-## :clock10: 기능 시연
+## :clock10: <a name="기능-시연연"></a>  기능 시연
 
 <br/>
 
@@ -297,7 +152,7 @@ https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
 
 
 <!-- 기술스택 -->
-## :clock11: 주요 기술스택
+## :clock11:  <a name="주요-기술스택택"></a> 주요 기술스택
 
 <br/>
 <br/>
@@ -329,7 +184,7 @@ https://youtu.be/yRVWUnFJsqE?si=EqvX258-7EbXQsi7
 <br/>
 
 
-## 🛬 마치며...
+## 🛬  <a name="마치며"></a> 마치며...
 
 
 <br/>
